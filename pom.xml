@@ -12,7 +12,7 @@
     <groupId>org.nmrfx</groupId>
     <artifactId>processor</artifactId>
     <packaging>jar</packaging>
-    <version>10.1.3</version>
+    <version>10.1.4</version>
     <name>nmrfxprocessor</name>
     <url>http://maven.apache.org</url>
     <dependencies>
