@@ -6,7 +6,11 @@
             <id>nativelibs4java-repo</id>
             <url>http://nativelibs4java.sourceforge.net/maven</url>
         </repository>
-
+        <repository>
+          <id>bedatadriven</id>
+          <name>bedatadriven public repo</name>
+          <url>https://nexus.bedatadriven.com/content/groups/public/</url>
+        </repository>
     </repositories>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.nmrfx</groupId>
@@ -48,6 +52,11 @@
             <artifactId>log4j-core</artifactId>
             <version>2.5</version>
         </dependency>
+        <dependency>
+           <groupId>org.renjin</groupId>
+           <artifactId>renjin-script-engine</artifactId>
+           <version>RELEASE</version>
+         </dependency>
     </dependencies>
     <build>
         <plugins>
