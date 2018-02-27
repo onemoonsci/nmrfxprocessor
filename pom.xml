@@ -42,6 +42,11 @@
             <scope>compile</scope>
         </dependency>
         <dependency>
+            <groupId>net.sourceforge.jdistlib</groupId>
+            <artifactId>jdistlib</artifactId>
+            <version>0.4.5</version>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
