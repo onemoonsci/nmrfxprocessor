@@ -14,10 +14,10 @@
     </repositories>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.nmrfx</groupId>
-    <artifactId>processor</artifactId>
+    <artifactId>processor_mlt</artifactId>
     <packaging>jar</packaging>
     <version>10.3.53</version>
-    <name>nmrfxprocessor</name>
+    <name>nmrfxprocessor_mlt</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
