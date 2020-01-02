@@ -14,7 +14,7 @@
     </repositories>
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.nmrfx</groupId>
-    <artifactId>processor_mlt</artifactId>
+    <artifactId>processor</artifactId>
     <packaging>jar</packaging>
     <version>10.3.54</version>
     <name>nmrfxprocessor</name>
